@@ -1,0 +1,63 @@
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Lrc Maker.exe.config
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Lrc Maker.exe
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Lrc Maker.pdb
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Interop.WMPLib.dll
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.csprojResolveAssemblyReference.cache
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Interop.WMPLib.dll
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.csproj.ResolveComReference.cache
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.Form1.resources
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.Properties.Resources.resources
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.csproj.GenerateResource.Cache
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.exe
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.pdb
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\close.png
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\mini.png
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\closex.png
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\minix.png
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\closexs.png
+C:\Users\DavidLin\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\minixs.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Interop.WMPLib.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\AxInterop.WMPLib.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.csproj.ResolveComReference.cache
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.csprojResolveAssemblyReference.cache
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.Form1.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.Properties.Resources.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.csproj.GenerateResource.Cache
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\close.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\mini.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\closex.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\minix.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\closexs.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Resources\minixs.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\Interop.WMPLib.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\AxInterop.WMPLib.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.Resource1.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.renamebox.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.ProgramImg.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.ABOUT.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\LRC 歌詞檔案製作工具.exe.config
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\LRC 歌詞檔案製作工具.exe.manifest
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\LRC 歌詞檔案製作工具.application
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\LRC 歌詞檔案製作工具.exe
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Debug\LRC 歌詞檔案製作工具.pdb
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\LRC 歌詞檔案製作工具.exe.manifest
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\LRC 歌詞檔案製作工具.application
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\LRC 歌詞檔案製作工具.exe
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\LRC 歌詞檔案製作工具.pdb
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.csprojAssemblyReference.cache
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.Donate.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.Form2.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.inputlryic.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.kbosf.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.like.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.markform.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.SearchVideo.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.Search.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.survey.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.UpdateManager.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.updownControl.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.WELCOME.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc_Maker.Repair.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Debug\Lrc Maker.csproj.CoreCompileInputs.cache

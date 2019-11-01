@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>11.6.1911.1 修正：
+　更新相關套件
+　Bug修復
+
+11.5.1909.14 新功能：
+　全新設計應用程式圖標
+　取消贊助視窗
+　修復無法線上取得資源問題
+　其他 Bugs Fix
+
+11.3.1902.13 修正：
+　部分用戶無法正常啟動的 Bug
+
+11.3.1902.1 更新：
+　現在開始會記住編碼格式了
+　自動判斷文件是否為LRC格式，並自動轉換成普通歌詞
+　更智慧的LRC編輯體驗
+　可自訂義主題色彩
+　修復若干 Bug
+
+11.0.1812.12 更新：
+　迎接 2019，介面全新改版
+　修正線上搜尋音樂無法播放問題
+　優化播放進度條樣式及操作體驗
+　偷偷加入贊助視窗 (實驗中)
+　修正其他小 bug
+　優化程式碼
+
+10.1.1805.22 更新：
+　修正預覽歌詞顯示問題（感謝 AlexLi 參與 Debug）
+　優化部分程式碼
+　修正某些按鈕失靈情況
+　該死的被強迫更新到 .Net Framework 4.6.1
+
+10.0.1802.4 更新：
+　修正拒絕存取路徑錯誤
+　變更設定檔存放位置
+　其他BUG修復
+　介面顏色微調
+
+10.0.1801.27 更新：
+　新增YouTube音樂搜尋功能
+　檔案載入介面新增資源選擇窗口
+　修正一些BUG
+　使用者介面微調
+　加入Google Apis服務
+　(選擇性)加入youtube-dl.exe
+
+9.0.1712.6 更新：
+　新增隱私權提醒
+　修正一些BUG
+　使用者介面微調
+　修復回報問題功能
+　代碼上做了一些優化
+ 　　9.0.1712.3 版本的錯誤修復：
+　 　　修復了跑馬燈亂碼的問題
+ 　　　修復問題回報寄信亂碼的問題
+
+9.0.1705.17 更新：
+　新播放核心支援更多音樂格式而不需要額外安裝解碼器
+　新增編輯模式使轉換後部分可直接對該行時間軸微調
+　支援匯入LRC檔案進行逐行編輯
+　FLAC檔時間錯誤修正
+　播放速度調整延遲問題修正
+　播放速度上限提升
+　提升時間定位準確性
+　回報問題功能修復
+　載入文件亂碼問題修復
+　修復儲存文件編碼沒有正常運作
+　其他問題修復
+
+8.9.1702.0 修正：
+　回報問題的一些錯誤
+　回報問題設置驗證問題
+
+8.9.1701.0 修正：
+　問題回報服務上的改進
+　快速鍵停用提示訊息精簡化
+　介面調整
+
+8.8.1701.21 更新：
+　現在可以自定義快速鍵了
+　拖曳開啟檔案時，按鈕變色
+　按鈕加入少量動畫
+　顯示提示訊息，以及使用說明
+　滑鼠移至跑馬燈上方時，文字將暫停移動
+　修正在無網路情況下程式閃退問題
+　修正問題回報無法寄信的問題
+
+8.3.1606.1 修正：
+　部分電腦無法調整播放進度問題
+　單行取消問題
+　歌詞預覽閃爍問題
+
+8.2.1606.0 更新：
+　彩色進度調隨機顯示
+　修正了一些錯誤
+　「處理前」和「處理後」區塊可以自由調整了！
+
+8.1.1606.1 更新：
+　使用者介面大小調整
+　線上搜尋歌詞加入搜尋進度條
+　改善搜尋歌詞的效能
+
+8.0.1606.12 更新：
+　現在支援線上搜尋歌詞了！
+　使用者介面微調
+　新增多款佈景主題：
+　　土豪金主題
+　　粉色主題
+　　咖啡主題
+　修復了一些問題
+
+7.6.1605.5 更新：
+　在歌曲名稱上顯示音樂格式
+　修復了一些問題
+　優化了部分功能
+　新增「問題回報」的提問內容
+
+7.5.1604.3 更新：
+　增加一些功能
+
+7.3.1602.1 更新：
+　新增「標記段落」功能
+　微調介面顯示方式
+　更改問題回報的必填項目
+
+7.2.1601.5 更新：
+　可調播放速度，製作歌詞更精確！
+　優化預覽功能體驗
+
+7.0.1511.1 更新：
+　新增拖曳開啟檔案功能
+　新增歌詞預覽功能 *測試功能
+　更新版權資訊
+　新增「問題回報」功能中的回報類型
+
+6.0.1508.14 更新：
+　(測試階段)允許全螢幕視窗
+　停用傳統介面「Cloud Theme」
+　介面按鈕稍作更動
+　完美支援 Windows 10
+　對於上個版本的BUG進行修復
+　優化程式碼，效能微幅提升
+　優化歌詞對應歌曲的精確度
+
+5.7.1506.820 更新：
+　新增檔案編碼選項
+　優化程式碼，並大幅提昇效能
+　新增「臉書按讚」提示訊息
+　
+
+5.6.1506.0 更新：
+　安裝K-LITE第三方解碼器後，將支援更多格式
+　針對某些電腦無法使用「單行轉換」功能來轉換歌詞的重大修復
+　強化使用者快速鍵體驗
+　當發生錯誤時，彈出錯誤方塊
+　新增「（對粉絲專業）臉書按讚」功能
+
+5.3.1503.2 更新：
+　新增「刪除空行」功能
+　新增「精簡歌詞」功能
+　新增「時軸位移」功能
+　介面按鈕美化／更動
+　對於上個版本的BUG進行修復
+ 　　5.3.1503.1 版本的錯誤修復：
+　　　更新後無法使用快速鍵
+　　　更新後無歡迎訊息彈出
+　　　更新「處理後」內容按下「刪除」後，出現錯誤訊息。
+　　　改善其他問題
+
+5.0.1502.2更新：
+　新增「歌詞輸入」功能，不用再將歌詞存成文字檔再由程式讀取
+　新增「主題」風格三種
+　開放「回報問題」功能
+　優化「單行取消」功能
+　解決「載入歌詞文件」不能使用其他編碼方式問題
+　對於上個版本的BUG進行修復
+　優化程式碼，並大幅提昇效能
+　介面稍做更動
+　其他功能釋放
+
+4.1.1501.1更新：
+　新增前所未有的快速鍵功能，讓使用者更方便操作
+　對於上個版本的BUG進行修復
+　優化程式碼，並大幅提昇效能
+　其他功能釋放
+
+3.1.1408.2更新：
+　新增「軟體更新」測試版
+
+3.0.1408.12更新：
+　新增「智慧判斷」優化按下「單行取消」後歌曲進度倒退的時間
+
+3.0.1408.8更新：
+　介面美化「Cloud Theme」</value>
+  </data>
+</root>

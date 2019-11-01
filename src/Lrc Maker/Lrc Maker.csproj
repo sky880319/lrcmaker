@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{423538C9-5182-45A2-88F9-BDCE1DCDA1E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lrc_Maker</RootNamespace>
+    <AssemblyName>LRCMaker</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>發行\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>5.0.1502.2</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\lrcmaker.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4A13BBFA095AE03590D8850491FC47CB67ACC8A0</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Lrc Maker_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Lrc_Maker.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bass.Net, Version=2.4.13.0, Culture=neutral, PublicKeyToken=b7566c273e6ef480, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Bass.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.0.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.Apis, Version=1.41.1.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.41.1\lib\net45\Google.Apis.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth, Version=1.41.1.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.41.1\lib\net45\Google.Apis.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth.PlatformServices, Version=1.41.1.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.41.1\lib\net45\Google.Apis.Auth.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Core, Version=1.41.1.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Core.1.41.1\lib\net45\Google.Apis.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.PlatformServices, Version=1.41.1.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.41.1\lib\net45\Google.Apis.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.YouTube.v3, Version=1.41.1.1699, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.YouTube.v3.1.41.1.1699\lib\net45\Google.Apis.YouTube.v3.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http, Version=4.1.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.3.4\lib\net46\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.1\lib\net46\System.Security.Cryptography.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.2\lib\net46\System.Security.Cryptography.X509Certificates.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABOUT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABOUT.Designer.cs">
+      <DependentUpon>ABOUT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Donate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Donate.Designer.cs">
+      <DependentUpon>Donate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inputlryic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inputlryic.Designer.cs">
+      <DependentUpon>inputlryic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kbosf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kbosf.Designer.cs">
+      <DependentUpon>kbosf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="like.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="like.Designer.cs">
+      <DependentUpon>like.cs</DependentUpon>
+    </Compile>
+    <Compile Include="metroProgBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="metroProgBar.Designer.cs">
+      <DependentUpon>metroProgBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgramImg.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProgramImg.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="renamebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="renamebox.Designer.cs">
+      <DependentUpon>renamebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="markform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="markform.Designer.cs">
+      <DependentUpon>markform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Repair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repair.Designer.cs">
+      <DependentUpon>Repair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchVideo.Designer.cs">
+      <DependentUpon>SearchVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search.Designer.cs">
+      <DependentUpon>Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="survey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="survey.Designer.cs">
+      <DependentUpon>survey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="transListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transListBox.Designer.cs">
+      <DependentUpon>transListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateManager.Designer.cs">
+      <DependentUpon>UpdateManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updownControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="updownControl.Designer.cs">
+      <DependentUpon>updownControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="uTextBox.Designer.cs">
+      <DependentUpon>uTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WELCOME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WELCOME.Designer.cs">
+      <DependentUpon>WELCOME.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ABOUT.resx">
+      <DependentUpon>ABOUT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donate.resx">
+      <DependentUpon>Donate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inputlryic.resx">
+      <DependentUpon>inputlryic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kbosf.resx">
+      <DependentUpon>kbosf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="like.resx">
+      <DependentUpon>like.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="metroProgBar.resx">
+      <DependentUpon>metroProgBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgramImg.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ProgramImg.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="markform.resx">
+      <DependentUpon>markform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchVideo.resx">
+      <DependentUpon>SearchVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search.resx">
+      <DependentUpon>Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="survey.resx">
+      <DependentUpon>survey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateManager.resx">
+      <DependentUpon>UpdateManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updownControl.resx">
+      <DependentUpon>updownControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WELCOME.resx">
+      <DependentUpon>WELCOME.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="Lrc Maker_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="renamebox.resx">
+      <DependentUpon>renamebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repair.resx">
+      <DependentUpon>Repair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\close.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\mini.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\closex.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\minix.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\closexs.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\minixs.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closexn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Font Awesome 5 Free-Regular-400.otf" />
+    <None Include="Resources\minixn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\230.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1407258559_170984.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1407258578_music_ios7_ios_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close3-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close3-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close3-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close3-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close3-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close3-31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close3-41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\op4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\op1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\op2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\op3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mini4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mini1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mini2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mini3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LOGO-02.ico" />
+    <None Include="Resources\lrcmaker.ico" />
+    <None Include="Resources\eyenon.png" />
+    <None Include="Resources\Search_Find.png" />
+    <None Include="Resources\para.png" />
+    <None Include="Resources\eye.png" />
+    <None Include="Resources\eraser.png" />
+    <None Include="Resources\area.png" />
+    <None Include="Resources\time.png" />
+    <None Include="Resources\tag.png" />
+    <None Include="Resources\redo.png" />
+    <None Include="Resources\warning.png" />
+    <None Include="Resources\ok-white.png" />
+    <None Include="Resources\ok.png" />
+    <None Include="Resources\warning-white.png" />
+    <None Include="Resources\savelrc.png" />
+    <None Include="Resources\re.png" />
+    <None Include="Resources\file-t.png" />
+    <None Include="Resources\file-a.png" />
+    <None Include="Resources\feedback.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\op41.png" />
+    <None Include="Resources\op31.png" />
+    <None Include="Resources\op21.png" />
+    <None Include="Resources\op11.png" />
+    <None Include="Resources\minixs1.png" />
+    <None Include="Resources\minixn1.png" />
+    <None Include="Resources\minix1.png" />
+    <None Include="Resources\mini41.png" />
+    <None Include="Resources\mini31.png" />
+    <None Include="Resources\mini21.png" />
+    <None Include="Resources\mini11.png" />
+    <None Include="Resources\mini5.png" />
+    <None Include="Resources\close31.png" />
+    <None Include="Resources\close21.png" />
+    <None Include="Resources\nvp3.png" />
+    <None Include="Resources\nvp2.png" />
+    <None Include="Resources\nvp1.png" />
+    <None Include="Resources\pau2.png" />
+    <None Include="Resources\pau1.png" />
+    <None Include="Resources\mp3.png" />
+    <None Include="Resources\mp2.png" />
+    <None Include="Resources\mp1.png" />
+    <None Include="Resources\vp3.png" />
+    <None Include="Resources\vp2.png" />
+    <None Include="Resources\vp1.png" />
+    <None Include="Resources\st3.png" />
+    <None Include="Resources\st2.png" />
+    <None Include="Resources\st1.png" />
+    <None Include="Resources\pau3.png" />
+    <None Include="Resources\p3.png" />
+    <None Include="Resources\p2.png" />
+    <None Include="Resources\p1.png" />
+    <None Include="Resources\p.png" />
+    <None Include="Resources\Monitor-03-WF.png" />
+    <None Include="Resources\YouTube1.png" />
+    <None Include="Resources\View-Earth.png" />
+    <None Include="Resources\YouTube11.png" />
+    <None Include="Resources\Computer alt 21.png" />
+    <None Include="Resources\Computer alt 2.png" />
+    <None Include="Resources\donate.png" />
+    <None Include="Resources\Data-Find.png" />
+    <None Include="Resources\Happy-01-WF.png" />
+    <None Include="Resources\Pencil-07b1.png" />
+    <None Include="Resources\Document-Musicb1.png" />
+    <None Include="Resources\Text-Documentb.png" />
+    <None Include="Resources\Searchb.png" />
+    <None Include="Resources\Saveb.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\Reloadb.png" />
+    <None Include="Resources\Pencil-07b.png" />
+    <None Include="Resources\Document-Musicb.png" />
+    <None Include="Resources\Search.png" />
+    <None Include="Resources\Warning - 01.png" />
+    <None Include="Resources\Search-Find.png" />
+    <None Include="Resources\note.png" />
+    <None Include="Resources\Cancel.png" />
+    <None Include="Resources\Right tick - 01.png" />
+    <None Include="Resources\Warning - 04.png" />
+    <None Include="Resources\Warning - 03.png" />
+    <None Include="Resources\Arrowhead-Right.png" />
+    <None Include="Resources\Arrowhead-Left.png" />
+    <None Include="Resources\Text-Document.png" />
+    <None Include="Resources\Pencil-07.png" />
+    <None Include="Resources\Download.png" />
+    <None Include="Resources\Document-Music.png" />
+    <None Include="Resources\Eighth-Notes.png" />
+    <None Include="Resources\Reload.png" />
+    <None Include="Resources\sky-6.png" />
+    <None Include="Resources\warning-icon.png" />
+    <None Include="Resources\Problem-warning-icon.png" />
+    <None Include="Resources\check_icon.png" />
+    <None Include="Resources\rsz_logo41.png" />
+    <None Include="Resources\logo41.png" />
+    <None Include="Resources\logo31.png" />
+    <None Include="Resources\logo21.png" />
+    <None Include="Resources\LOGO-021.png" />
+    <None Include="Resources\logo11.png" />
+    <None Include="Resources\LOGO-011.png" />
+    <None Include="Resources\ding.wav" />
+    <None Include="Resources\lock2_32.png" />
+    <None Include="Resources\lock1_32.png" />
+    <None Include="Resources\unlock3_32.png" />
+    <None Include="Resources\unlock2_32.png" />
+    <None Include="Resources\unlock1_32.png" />
+    <None Include="Resources\lock3_32.png" />
+    <None Include="Resources\play3_58.png" />
+    <None Include="Resources\play2_58.png" />
+    <None Include="Resources\play1_58.png" />
+    <None Include="Resources\pause3_58.png" />
+    <None Include="Resources\pause2_58.png" />
+    <None Include="Resources\pause1_58.png" />
+    <None Include="Resources\stop2_32.png" />
+    <None Include="Resources\stop1_32.png" />
+    <None Include="Resources\stop3_32.png" />
+    <None Include="Resources\rsz_logo4.png" />
+    <None Include="Resources\logo1.png" />
+    <None Include="Resources\LOGO-01.png" />
+    <None Include="Resources\lock3.png" />
+    <None Include="Resources\lock2.png" />
+    <None Include="Resources\lock1.png" />
+    <None Include="Resources\vol_X3.png" />
+    <None Include="Resources\vol_X2.png" />
+    <None Include="Resources\vol_X1.png" />
+    <None Include="Resources\vol_min3.png" />
+    <None Include="Resources\vol_min2.png" />
+    <None Include="Resources\vol_min1.png" />
+    <None Include="Resources\vol_mid3.png" />
+    <None Include="Resources\vol_mid2.png" />
+    <None Include="Resources\vol_mid1.png" />
+    <None Include="Resources\vol_max3.png" />
+    <None Include="Resources\vol_max2.png" />
+    <None Include="Resources\vol_max1.png" />
+    <None Include="Resources\unlock3.png" />
+    <None Include="Resources\unlock2.png" />
+    <None Include="Resources\unlock1.png" />
+    <None Include="Resources\stop3.png" />
+    <None Include="Resources\stop2.png" />
+    <None Include="Resources\stop1.png" />
+    <None Include="Resources\play3.png" />
+    <None Include="Resources\play2.png" />
+    <None Include="Resources\play1.png" />
+    <None Include="Resources\pause3.png" />
+    <None Include="Resources\pause2.png" />
+    <None Include="Resources\pause1.png" />
+    <None Include="Resources\logo4.png" />
+    <None Include="Resources\logo3.png" />
+    <None Include="Resources\logo2.png" />
+    <None Include="Resources\LOGO-02.png" />
+    <None Include="Resources\LOGO-02.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

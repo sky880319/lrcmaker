@@ -1,0 +1,4 @@
+System.ArgumentOutOfRangeException: StartIndex 不可以小於零。
+參數名稱: startIndex
+   於 System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   於 Lrc_Maker.Form1.changetolrc_Click(Object sender, EventArgs e) 於 d:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\Form1.cs: 行 309

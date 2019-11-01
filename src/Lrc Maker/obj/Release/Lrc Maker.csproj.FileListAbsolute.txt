@@ -1,0 +1,191 @@
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\close.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\mini.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\closex.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\minix.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\closexs.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\minixs.png
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.ABOUT.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Form1.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.ProgramImg.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Properties.Resources.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.renamebox.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Resource1.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc Maker.csproj.GenerateResource.Cache
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Repair.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.WELCOME.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.inputlryic.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\LRCMaker.exe.config
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\LRCMaker.exe
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\LRCMaker.pdb
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\LRCMaker.exe
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\LRCMaker.pdb
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.markform.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Microsoft.CSharp.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Data.DataSetExtensions.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Data.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Deployment.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Drawing.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Windows.Forms.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Xml.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Xml.Linq.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.like.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.UpdateManager.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Search.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Donate.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.kbosf.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.updownControl.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.survey.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc Maker.csproj.CoreCompileInputs.cache
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.SearchVideo.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Auth.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Auth.PlatformServices.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Core.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.PlatformServices.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Newtonsoft.Json.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Net.Http.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.xml
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Auth.xml
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Core.xml
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.xml
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Newtonsoft.Json.xml
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Form2.resources
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc Maker.csproj.CopyComplete
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc Maker.csprojAssemblyReference.cache
+D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.metroProgBar.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\close.png
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\mini.png
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\closex.png
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\minix.png
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\closexs.png
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Resources\minixs.png
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\LRCMaker.exe.config
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\LRCMaker.exe
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\LRCMaker.pdb
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Auth.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Auth.PlatformServices.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Core.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.PlatformServices.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Microsoft.CSharp.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Newtonsoft.Json.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Data.DataSetExtensions.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Data.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Deployment.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Drawing.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Net.Http.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Windows.Forms.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Xml.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\System.Xml.Linq.dll
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.xml
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Auth.xml
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Core.xml
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.xml
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Newtonsoft.Json.xml
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc Maker.csprojAssemblyReference.cache
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.ABOUT.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Donate.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Form1.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Form2.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.inputlryic.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.kbosf.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.like.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.metroProgBar.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.ProgramImg.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Properties.Resources.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.markform.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.SearchVideo.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Search.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.survey.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.UpdateManager.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.updownControl.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.WELCOME.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.renamebox.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Repair.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc_Maker.Resource1.resources
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc Maker.csproj.GenerateResource.cache
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc Maker.csproj.CoreCompileInputs.cache
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\Lrc Maker.csproj.CopyComplete
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\LRCMaker.exe
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\obj\Release\LRCMaker.pdb
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.pdb
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Auth.pdb
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.Core.pdb
+D:\sky88\Documents\Visual Studio 2012\Projects\Lrc Maker\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.pdb
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Resources\close.png
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Resources\mini.png
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Resources\closex.png
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Resources\minix.png
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Resources\closexs.png
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Resources\minixs.png
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\LRCMaker.exe.config
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\LRCMaker.exe
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\LRCMaker.pdb
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.Auth.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.Auth.PlatformServices.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.Core.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.PlatformServices.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Microsoft.CSharp.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Newtonsoft.Json.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Data.DataSetExtensions.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Data.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Deployment.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Drawing.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Net.Http.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Windows.Forms.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Xml.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Xml.Linq.dll
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.pdb
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.xml
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.Auth.pdb
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.Auth.xml
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.Core.pdb
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.Core.xml
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.pdb
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.xml
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Newtonsoft.Json.xml
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc Maker.csprojAssemblyReference.cache
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.ABOUT.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.Donate.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.Form1.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.Form2.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.inputlryic.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.kbosf.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.like.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.metroProgBar.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.ProgramImg.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.Properties.Resources.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.markform.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.SearchVideo.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.Search.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.survey.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.UpdateManager.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.updownControl.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.WELCOME.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.renamebox.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.Repair.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.Resource1.resources
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc Maker.csproj.GenerateResource.cache
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc Maker.csproj.CoreCompileInputs.cache
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc Maker.csproj.CopyComplete
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\LRCMaker.exe
+D:\Source\lrcmaker\src\Lrc Maker\obj\Release\LRCMaker.pdb
