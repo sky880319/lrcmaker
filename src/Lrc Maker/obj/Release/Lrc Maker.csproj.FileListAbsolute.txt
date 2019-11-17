@@ -146,7 +146,6 @@ D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Data.dll
 D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Deployment.dll
 D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.dll
 D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Drawing.dll
-D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Net.Http.dll
 D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Security.Cryptography.Algorithms.dll
 D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Security.Cryptography.Encoding.dll
 D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Security.Cryptography.Primitives.dll
@@ -189,3 +188,4 @@ D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc Maker.csproj.CoreCompileInputs.
 D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc Maker.csproj.CopyComplete
 D:\Source\lrcmaker\src\Lrc Maker\obj\Release\LRCMaker.exe
 D:\Source\lrcmaker\src\Lrc Maker\obj\Release\LRCMaker.pdb
+D:\Source\lrcmaker\src\Lrc Maker\bin\Release\System.Net.Http.dll

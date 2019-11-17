@@ -67,9 +67,9 @@ namespace Lrc_Maker
         string[] pluginName = { "Updater", "Youtube-Dl" };
 
         /////////////////////////////////////////////////////////////////////////////////////
-        public const string ver = "11.6.1911.1"; // 版本資訊，發佈新版之前請修改此行。
+        public const string ver = "11.6.1911.17"; // 版本資訊，發佈新版之前請修改此行。
         const string revisenum = "1";
-        const string dat = "2019/11/1";
+        const string dat = "2019/11/17";
         public const string updaterver = "2.0";
         /////////////////////////////////////////////////////////////////////////////////////
         bool iftestver = false;
