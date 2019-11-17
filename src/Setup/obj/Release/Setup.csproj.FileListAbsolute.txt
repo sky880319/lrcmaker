@@ -11,3 +11,5 @@ D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Ma
 D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Setup\bin\Release\Interop.IWshRuntimeLibrary.dll
 D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Setup\obj\Release\Interop.IWshRuntimeLibrary.dll
 D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\Setup\obj\Release\Setup.csprojAssemblyReference.cache
+D:\Source\lrcmaker\src\Setup\obj\Release\Setup.exe
+D:\Source\lrcmaker\src\Setup\obj\Release\Setup.pdb

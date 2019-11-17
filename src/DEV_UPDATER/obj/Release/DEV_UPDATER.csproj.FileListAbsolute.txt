@@ -8,3 +8,5 @@ D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Ma
 D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\DEV_UPDATER\obj\Release\DEV_UPDATER.csproj.CoreCompileInputs.cache
 D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\DEV_UPDATER\bin\Release\DEV_UPDATER.exe.config
 D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\DEV_UPDATER\obj\Release\DEV_UPDATER.csprojAssemblyReference.cache
+D:\Source\lrcmaker\src\DEV_UPDATER\obj\Release\DEV_UPDATER.exe
+D:\Source\lrcmaker\src\DEV_UPDATER\obj\Release\DEV_UPDATER.pdb

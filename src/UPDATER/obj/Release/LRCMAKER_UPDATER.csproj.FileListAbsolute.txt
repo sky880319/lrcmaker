@@ -8,3 +8,5 @@ D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Ma
 D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\UPDATER\obj\Release\LRCMAKER_UPDATER.pdb
 D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\UPDATER\bin\Release\LRCMAKER_UPDATER.exe.config
 D:\.USERFILE_DO.NOT.DELETE_IMPORTEN\DOCUMENTS\Visual Studio 2012\Projects\Lrc Maker\UPDATER\obj\Release\LRCMAKER_UPDATER.csprojAssemblyReference.cache
+D:\Source\lrcmaker\src\UPDATER\obj\Release\LRCMAKER_UPDATER.exe
+D:\Source\lrcmaker\src\UPDATER\obj\Release\LRCMAKER_UPDATER.pdb

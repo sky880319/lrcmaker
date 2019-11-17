@@ -162,7 +162,6 @@ D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.Core.xml
 D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.pdb
 D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Google.Apis.YouTube.v3.xml
 D:\Source\lrcmaker\src\Lrc Maker\bin\Release\Newtonsoft.Json.xml
-D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc Maker.csprojAssemblyReference.cache
 D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.ABOUT.resources
 D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.Donate.resources
 D:\Source\lrcmaker\src\Lrc Maker\obj\Release\Lrc_Maker.Form1.resources

@@ -67,7 +67,7 @@ namespace Lrc_Maker
         string[] pluginName = { "Updater", "Youtube-Dl" };
 
         /////////////////////////////////////////////////////////////////////////////////////
-        public const string ver = "11.6.1911.17"; // 版本資訊，發佈新版之前請修改此行。
+        public const string ver = "11.6.1911.18"; // 版本資訊，發佈新版之前請修改此行。
         const string revisenum = "1";
         const string dat = "2019/11/17";
         public const string updaterver = "2.0";
@@ -403,7 +403,12 @@ namespace Lrc_Maker
                             DialogResult updateinfo = MessageBox.Show("有新版本可用，要前往更新嗎？\n\n" + "當前版本：" + ver + "\n最新版本：" + httxt, "消息", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
                             if (updateinfo == DialogResult.OK)
                             {
-                                Process.Start("LRCMAKER_UPDATER.exe");
+                                var psi = new ProcessStartInfo
+                                {
+                                    FileName = "LRCMAKER_UPDATER.exe",
+                                    Verb = "runas"
+                                };
+                                Process.Start(psi);
                                 Application.Exit();
                             }
                             else
